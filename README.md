@@ -1,4 +1,8 @@
-# MIT OCW 6.001x
+# MIT OCW 6.00
+
+The course comprises 2 parts:
+- 6.00.1x = Introduction to Computer Science and Programming Using Python
+- 6.00.2x = Introduction to Computational Thinking and Data Science
 
 These notebooks are intended for the purpose of:
 - keeping track of my own learning
